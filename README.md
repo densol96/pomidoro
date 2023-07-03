@@ -8,4 +8,3 @@ Ensure that the dependencies in the virtual environment are up to date by runnin
 pip install -r requirements.txt
 
 Cheers!
-THIS IS A NEW LINE!
